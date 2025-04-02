@@ -1,0 +1,38 @@
+{
+  "name": "nicodemuz/prh-api-php-sdk",
+  "description": "A simple PHP SDK to access company data from Finnish PRH (Patent and Registration Office).",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Nicodemuz\\Prh\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Nicodemuz\\Prh\\Tests\\": "tests/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Nico Hiort af Ornäs",
+      "email": "first-name@warpspeed.solutions"
+    }
+  ],
+  "require": {
+    "php": ">=8.4.0",
+    "psr/http-client": "^1.0",
+    "psr/http-factory": "^1.0",
+    "psr/http-message": "^1.0",
+    "symfony/validator": "^7.2"
+  },
+  "require-dev": {
+    "guzzlehttp/guzzle": "^7.0",
+    "nyholm/psr7": "^1.0",
+    "phpunit/phpunit": "^12.0",
+    "symfony/var-dumper": "^7.0",
+    "vimeo/psalm": "^6.10",
+    "phpstan/phpstan": "^2.1",
+    "psalm/plugin-phpunit": "^0.19.5"
+  }
+}

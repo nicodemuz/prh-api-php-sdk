@@ -1,0 +1,185 @@
+{
+  "totalResults": 1,
+  "companies": [
+    {
+      "businessId": {
+        "value": "0250345-3",
+        "registrationDate": "1979-01-05",
+        "source": "3"
+      },
+      "euId": {
+        "value": "FIFPRO.0250345-3",
+        "source": "1"
+      },
+      "names": [
+        {
+          "name": "Accountor Group Oy",
+          "type": "1",
+          "registrationDate": "2016-01-28",
+          "version": 1,
+          "source": "1"
+        },
+        {
+          "name": "Calcyteam Oy",
+          "type": "1",
+          "registrationDate": "2000-09-27",
+          "endDate": "2016-01-28",
+          "version": 2,
+          "source": "1"
+        },
+        {
+          "name": "Generis",
+          "type": "3",
+          "registrationDate": "2018-12-31",
+          "version": 1,
+          "source": "1"
+        }
+      ],
+      "mainBusinessLine": {
+        "type": "66190",
+        "descriptions": [
+          {
+            "languageCode": "2",
+            "description": "Andra stödtjänster till finansiella tjänster utom försäkring och pensionsfondsverksamhet"
+          },
+          {
+            "languageCode": "1",
+            "description": "Muu rahoitusta palveleva toiminta (pl. vakuutus- ja eläkevakuutustoiminta)"
+          },
+          {
+            "languageCode": "3",
+            "description": "Other activities auxiliary to financial services, except insurance and pension funding"
+          }
+        ],
+        "typeCodeSet": "TOIMI3",
+        "registrationDate": "2007-12-31",
+        "source": "2"
+      },
+      "website": {
+        "url": "www.accountor.fi",
+        "registrationDate": "2018-09-13",
+        "source": "0"
+      },
+      "companyForms": [
+        {
+          "type": "16",
+          "descriptions": [
+            {
+              "languageCode": "2",
+              "description": "Aktiebolag"
+            },
+            {
+              "languageCode": "3",
+              "description": "Limited company"
+            },
+            {
+              "languageCode": "1",
+              "description": "Osakeyhtiö"
+            }
+          ],
+          "registrationDate": "2000-09-27",
+          "version": 1,
+          "source": "1"
+        }
+      ],
+      "companySituations": [],
+      "registeredEntries": [
+        {
+          "type": "1",
+          "descriptions": [
+            {
+              "languageCode": "3",
+              "description": "Registered"
+            },
+            {
+              "languageCode": "2",
+              "description": "Registrerad"
+            },
+            {
+              "languageCode": "1",
+              "description": "Rekisterissä"
+            }
+          ],
+          "registrationDate": "1978-07-21",
+          "register": "1",
+          "authority": "2"
+        },
+        {
+          "type": "1",
+          "descriptions": [
+            {
+              "languageCode": "3",
+              "description": "Registered"
+            },
+            {
+              "languageCode": "2",
+              "description": "Registrerad"
+            },
+            {
+              "languageCode": "1",
+              "description": "Rekisterissä"
+            }
+          ],
+          "registrationDate": "1979-01-05",
+          "register": "4",
+          "authority": "1"
+        }
+      ],
+      "addresses": [
+        {
+          "type": 1,
+          "street": "Keilaniementie",
+          "postCode": "02150",
+          "postOffices": [
+            {
+              "city": "ESBO",
+              "languageCode": "2",
+              "municipalityCode": "049"
+            },
+            {
+              "city": "ESPOO",
+              "languageCode": "1",
+              "municipalityCode": "049"
+            }
+          ],
+          "buildingNumber": "1",
+          "entrance": "",
+          "apartmentNumber": "",
+          "apartmentIdSuffix": "",
+          "co": "",
+          "registrationDate": "2018-09-13",
+          "source": "0"
+        },
+        {
+          "type": 2,
+          "street": "Keilaniementie",
+          "postCode": "02150",
+          "postOffices": [
+            {
+              "city": "ESBO",
+              "languageCode": "2",
+              "municipalityCode": "049"
+            },
+            {
+              "city": "ESPOO",
+              "languageCode": "1",
+              "municipalityCode": "049"
+            }
+          ],
+          "postOfficeBox": "",
+          "buildingNumber": "1",
+          "entrance": "",
+          "apartmentNumber": "",
+          "apartmentIdSuffix": "",
+          "co": "",
+          "registrationDate": "2018-09-13",
+          "source": "0"
+        }
+      ],
+      "tradeRegisterStatus": "1",
+      "status": "2",
+      "registrationDate": "1978-07-21",
+      "lastModified": "2024-11-15 14:02:08"
+    }
+  ]
+}

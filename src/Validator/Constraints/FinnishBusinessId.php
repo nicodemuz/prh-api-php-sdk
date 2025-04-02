@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Nicodemuz\Prh\Validator\Constraints;
 
 use Attribute;
